@@ -18,4 +18,12 @@ Comme indiquée cette commande permet d'afficher toutes les configurations possi
 
 Permet de voir l'état du dossier avec les fichiers qui sont trackés et ceux qui ne le sont pas
     
+    git add (--all)
+    
+Permet de tracker les fichiers ou dossier, --all permet de tracker tous les documents.
+
+    git commit -m
+    
+Pour enregister les modifs (y ajouter le message).
+    
     
