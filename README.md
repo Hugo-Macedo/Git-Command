@@ -40,6 +40,6 @@ Permet d'observer les différence apportées par rapport au dernier commit.
 
     git checkout (id du commit)
 
-Permet de revenir en mode spéctateur sur le commit précisé. <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> aucune modification n'est possible. git checkout (branche) pour revenir dans le présent
+Permet de revenir en mode spéctateur sur le commit précisé. <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> Aucune modification n'est possible. git checkout (branche) pour revenir dans le présent
 
     
