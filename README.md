@@ -27,6 +27,19 @@ Permet de tracker les fichiers ou dossier, --all permet de tracker tous les docu
 Pour enregister les modifs (y ajouter le message).
 
     git commit -a -m (message) 
-Perme de commit tous les fichiers trackés.
     
+Permet de commit tous les fichiers trackés.
+
+    git log (-n 2 ou -online ou -p )
+    
+Permet de regarder les derniers commit -n 2 pour les 2 derniers commits, -online en une seule ligne et -p pour choisir un fichier particulier.
+
+    git diff
+    
+Permet d'observer les différence apportées par rapport au dernier commit.
+
+    git checkout (id du commit)
+
+Permet de revenir en mode spéctateur sur le commit précisé. <i class="fa fa-exclamation-triangle" aria-hidden="true"></i> aucune modification n'est possible. git checkout (branche) pour revenir dans le présent
+
     
