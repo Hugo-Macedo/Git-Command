@@ -25,5 +25,8 @@ Permet de tracker les fichiers ou dossier, --all permet de tracker tous les docu
     git commit -m
     
 Pour enregister les modifs (y ajouter le message).
+
+    git commit -a -m (message) 
+Perme de commit tous les fichiers trackés.
     
     
