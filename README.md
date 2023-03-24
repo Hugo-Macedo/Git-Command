@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
+
 # Git Helper command line
 Ceci est un guide pour les commandes git  de bases
 
@@ -40,6 +42,6 @@ Permet d'observer les différence apportées par rapport au dernier commit.
 
     git checkout (id du commit)
 
-Permet de revenir en mode spéctateur sur le commit précisé. <i class="fa-solid fa-triangle-exclamation"> </i>Aucune modification n'est possible. git checkout (branche) pour revenir dans le présent
+Permet de revenir en mode spéctateur sur le commit précisé.<i class="fa-solid fa-triangle-exclamation"></i> Aucune modification n'est possible. git checkout (branche) pour revenir dans le présent
 
     
